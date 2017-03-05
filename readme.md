@@ -1,6 +1,6 @@
-💁 *arafay696/starter-laravel-angular has been upgraded to AngularJS 1.6.2.*
+*arafay696/starter-laravel-angular has been upgraded to AngularJS 1.6.2.*
 
-💁 *arafay696/starter-laravel-angular has been upgraded to Laravel 5.4. You can pull the changes and run* `composer update` *to merge the upgrade.*
+*arafay696/starter-laravel-angular has been upgraded to Laravel 5.4. You can pull the changes and run* `composer update` *to merge the upgrade.*
 
 # Laravel and AngularJS Starter Application
 
