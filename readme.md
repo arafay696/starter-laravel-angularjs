@@ -1,27 +1,60 @@
-# Laravel PHP Framework
+💁 *arafay696/starter-laravel-angular has been upgraded to AngularJS 1.6.2.*
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+💁 *arafay696/starter-laravel-angular has been upgraded to Laravel 5.4. You can pull the changes and run* `composer update` *to merge the upgrade.*
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+# Laravel and AngularJS Starter Application
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Repo for a starter application for a Single Page Application featuring the modern Laravel PHP framework (5.4) and front-end framework AngularJS. Just download and install and you have a good foundation for building any application.
 
-## Official Documentation
+## Features!
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+- Single Page Application
+  - HTML5 mode URLs
+  - Optimized Laravel and AngularJS routes
+    - You kind of don’t need to care about routes, they work automatically as you add new views. Still allows for flexibility if you plan any special routes.
+- Gulp readily configured
+  - Versioning of CSS and AngularJS files
+- Comes with AngularJS configured to work together at their best
+- Angular animation 
+- And more... have a try!
 
-## Contributing
+## Installation
+```
+git clone https://github.com/arafay696/starter-laravel-angularjs.git
+```
+```
+composer install --prefer-dist
+```
+```
+npm install
+```
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## Run
 
-## Security Vulnerabilities
+To provide the JS and CSS files and to keep track of changes to these files:
+```
+gulp
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+Start application:
+```
+http://localhost/{directory-name}
+```
 
-## License
+## Requirements
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+- PHP >= 5.6.4
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Mbstring PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+- Composer
+- Gulp
+- NPM
+
+#### .env
+
+Set up your `.env` file.
+
+Have fun! Any feedback is welcome.
