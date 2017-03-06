@@ -23,7 +23,7 @@ Repo for a starter application for a Single Page Application featuring the moder
 git clone https://github.com/arafay696/starter-laravel-angularjs.git
 ```
 ```
-composer install --prefer-dist
+composer update
 ```
 ```
 npm install
