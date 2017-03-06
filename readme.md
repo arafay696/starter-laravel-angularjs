@@ -1,7 +1,3 @@
-*arafay696/starter-laravel-angular has been upgraded to AngularJS 1.6.2.*
-
-*arafay696/starter-laravel-angular has been upgraded to Laravel 5.4. You can pull the changes and run* `composer update` *to merge the upgrade.*
-
 # Laravel and AngularJS Starter Application
 
 Repo for a starter application for a Single Page Application featuring the modern Laravel PHP framework (5.4) and front-end framework AngularJS. Just download and install and you have a good foundation for building any application.
@@ -60,4 +56,4 @@ http://localhost/{directory-name}
 
 Set up your `.env` file.
 
-Have fun! Any feedback is welcome.
+Enjoy! Any feedback is welcome.
