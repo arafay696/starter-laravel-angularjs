@@ -28,6 +28,9 @@ composer install --prefer-dist
 ```
 npm install
 ```
+```
+bower install
+```
 
 ## Run
 
